@@ -1,1 +1,1 @@
-Setup the default readme for practice
+![Preview](https://raw.githubusercontent.com/cocolin041/project/master/data/demo.JPG)
