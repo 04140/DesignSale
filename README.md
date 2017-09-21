@@ -1,2 +1,2 @@
 Setup the default readme for practice
-![alt text](https://raw.githubusercontent.com/cocolin041/DesignSale/master/path/to/ggplot2.JPG)
+![Preview](https://raw.githubusercontent.com/cocolin041/DesignSale/master/DesignSale/ggplot2.JPG)
